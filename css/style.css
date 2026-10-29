@@ -52,7 +52,9 @@ img {
 
 a:focus-visible,
 input:focus-visible,
-button:focus-visible {
+button:focus-visible,
+select:focus-visible,
+textarea :focus-visible {
   outline: 3px solid var(--rose);
   outline-offset: 3px;
 }
