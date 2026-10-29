@@ -286,7 +286,7 @@ address {
 @media (min-width: 48em) {
   .bandeau__grille {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     align-items: center;
   }
 }
